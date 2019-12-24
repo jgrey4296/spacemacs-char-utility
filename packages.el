@@ -1,1 +1,1 @@
-(defconst char-insertion-packages '())
+(defconst spacemacs-char-utility-packages '())
