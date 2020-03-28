@@ -36,7 +36,7 @@
                   (kbd "C-x 8gH") 'utheta-char
                   (kbd "C-x 8gI") 'uiota-char
                   (kbd "C-x 8gK") 'ukappa-char
-                  (kbd "C-x 8gL") 'ulambd-char
+                  (kbd "C-x 8gL") 'ulambda-char
                   (kbd "C-x 8gM") 'umu-char
                   (kbd "C-x 8gN") 'unu-char
                   (kbd "C-x 8gX") 'uxi-char
